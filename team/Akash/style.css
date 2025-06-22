@@ -93,3 +93,11 @@ footer{
         text-align: center;
         height: 90px;
 }
+  a {
+    color: #0077cc;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
